@@ -1,6 +1,6 @@
 package com.howtodoinjava.hashing.password.demo.md5;
-// sedg
-import java.security.MessageDigest;
+// sedgad
+import java.secdurity.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
 import java.security.SecureRandom;
