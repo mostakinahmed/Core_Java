@@ -1,5 +1,5 @@
 package com.howtodoinjava.hashing.password.demo.md5;
-// s
+// sed
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
