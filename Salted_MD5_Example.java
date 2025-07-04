@@ -1,5 +1,5 @@
 package com.howtodoinjava.hashing.password.demo.md5;
-// sedgadfadssq
+// sedgadfadssqd
 import java.secdurity.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
