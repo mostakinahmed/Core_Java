@@ -16,7 +16,7 @@ public class SaltedMD5Example
         String securePassword = getSecurePassword(passwordToHash, salt);
 
         System.out.println(securePassword);
-
+//
         String regeneratedPassowrdToVerify =
                 getSecurePassword(passwordToHash, salt);
 
